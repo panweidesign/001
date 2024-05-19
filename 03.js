@@ -2,7 +2,7 @@
 
 [rewrite_local]
 
-^https:\/\/api\.gotokeep\.com url script-response-body https://github.com/panweidesign/001/blob/main/03.js
+^https:\/\/api\.gotokeep\.com url script-response-body https://raw.githubusercontent.com/panweidesign/001/main/03.js
 
 [mitm] 
 
