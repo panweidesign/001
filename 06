@@ -1,3 +1,4 @@
+[rewrite_local]
 ^https:\/\/i\.weread\.qq\.com\/pay\/memberCardSummary url script-response-body https://raw.githubusercontent.com/panweidesign/001/main/07.js
 
 [mitm]
